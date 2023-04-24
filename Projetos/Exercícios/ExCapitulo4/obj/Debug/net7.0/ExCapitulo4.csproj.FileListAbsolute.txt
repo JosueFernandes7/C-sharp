@@ -1,0 +1,15 @@
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.csproj.AssemblyReference.cache
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.AssemblyInfoInputs.cache
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.AssemblyInfo.cs
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.csproj.CoreCompileInputs.cache
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\bin\Debug\net7.0\ExCapitulo4.exe
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\bin\Debug\net7.0\ExCapitulo4.deps.json
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\bin\Debug\net7.0\ExCapitulo4.runtimeconfig.json
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\bin\Debug\net7.0\ExCapitulo4.dll
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\bin\Debug\net7.0\ExCapitulo4.pdb
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.dll
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\refint\ExCapitulo4.dll
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.pdb
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ExCapitulo4.genruntimeconfig.cache
+D:\C#Nélio\Projetos\Exercícios\ExCapitulo4\obj\Debug\net7.0\ref\ExCapitulo4.dll
