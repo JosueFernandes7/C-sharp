@@ -28,10 +28,6 @@ namespace Course
             //p.RemoverProdutos(qte);
             //Console.WriteLine();
             //Console.WriteLine("Dados atualizados: " + p);
-            Produto p1 = new Produto("Calça",2500,2);
-            Console.WriteLine(p1.Nome);
-            p1.Nome = "Bermuda";
-            Console.WriteLine(p1.Nome);
         }
     }
 }
