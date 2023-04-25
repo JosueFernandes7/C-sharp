@@ -1,0 +1,15 @@
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.csproj.AssemblyReference.cache
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfoInputs.cache
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.AssemblyInfo.cs
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.csproj.CoreCompileInputs.cache
+D:\C#Nélio\cap 5\Banco\Banco\bin\Debug\net7.0\Banco.exe
+D:\C#Nélio\cap 5\Banco\Banco\bin\Debug\net7.0\Banco.deps.json
+D:\C#Nélio\cap 5\Banco\Banco\bin\Debug\net7.0\Banco.runtimeconfig.json
+D:\C#Nélio\cap 5\Banco\Banco\bin\Debug\net7.0\Banco.dll
+D:\C#Nélio\cap 5\Banco\Banco\bin\Debug\net7.0\Banco.pdb
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.dll
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\refint\Banco.dll
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.pdb
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\Banco.genruntimeconfig.cache
+D:\C#Nélio\cap 5\Banco\Banco\obj\Debug\net7.0\ref\Banco.dll
